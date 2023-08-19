@@ -64,7 +64,7 @@
 
 14. Print "VTCBB" as "VTCD".
 
-=>$cat VTCBB >> v=VTCD
+=>$cat VTCBB >> VTCD
 
 15. Display only duplicate line from file "stud.csv"
 
